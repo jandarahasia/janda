@@ -1,10 +1,10 @@
 var pages = [ 
-"https://carijandaonline.blogspot.com/p/cari-janda-online.html",
-"https://jandacantikkaya.blogspot.com/p/janda-cantik-kaya.html",
-"https://jandamudaseksi.blogspot.com/p/janda-muda-seksi.html",
-"https://jutaanjanda.blogspot.com/p/jutaan-janda.html",
-"https://sijandakembang.blogspot.com/p/si-janda-kembang.html",
-"https://surgajanda.blogspot.com/p/surga-janda.html",
+"https://carijandaonline.blogspot.com/",
+"https://jandacantikkaya.blogspot.com/",
+"https://jandamudaseksi.blogspot.com/",
+"https://jutaanjanda.blogspot.com/",
+"https://sijandakembang.blogspot.com/",
+"https://surgajanda.blogspot.com/",
 ];
 function randomPage() { 
 return pages[Math.round(Math.random() * (pages.length - 1))]; 
